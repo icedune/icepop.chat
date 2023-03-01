@@ -1,3 +1,3 @@
 # icepop.chat
 
-A fun way to chat with your friends.
+A demo chat application.
