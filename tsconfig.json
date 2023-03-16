@@ -28,13 +28,6 @@
     "noPropertyAccessFromIndexSignature": true,
     "skipLibCheck": true
   },
-  "include": [
-    "src/**/*.ts",
-    "src/**/*.tsx",
-    "next-env.d.ts",
-    "next.config.mjs",
-    "postcss.config.js",
-    "tailwind.config.js"
-  ],
+  "include": ["src/**/*.ts", "src/**/*.tsx", "next-env.d.ts"],
   "exclude": ["node_modules"]
 }
